@@ -1,0 +1,8 @@
+mcp>=1.0.0
+httpx>=0.27
+beautifulsoup4>=4.12
+pytrends>=4.9
+playwright>=1.44
+crawl4ai>=0.4
+youtube-transcript-api>=0.6
+google-genai>=0.3
